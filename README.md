@@ -16,18 +16,18 @@ By William Ho
 
 ---
 
-Becoming a Data Scientist involves an interdisciplinary foundation in programming, mathematics, and problem-solving skills. Data Scientists identify trends in data, build data pipelines that move information, and communicate their findings to stakeholders, making them essential to modern decision-making. This work presents the best practices for becoming a Data Scientist, starting from college.
+Becoming a data scientist involves an interdisciplinary foundation in programming, mathematics, and problem-solving skills. Data scientists identify trends in data, build data pipelines that move information, and communicate their findings to stakeholders, making them essential to modern decision-making. This work presents the best practices for becoming a data scientist, starting from college.
 
 # Skill-Building Activities
-This section discusses activities that increase your proficiency for skills that a Data Scientist needs to succeed.
+This section discusses activities that increase your proficiency for skills that a data scientist needs to succeed.
 
-## LeetCode
+## Doing LeetCode
 Solving LeetCode questions can be great practice for applying your coding concepts into retrievable skills. These questions also help you prepare for the problems given in technical interviews. It sharpens your general problem-solving skills and improves confidence in ability. 
 
 Start with the Python questions in LeetCode to get a grasp of how to use the language and its libraries. Then do SQL problems to learn how to handle datasets. Set time limits for how long you can solve a certain problem (depending on its difficulty) to mimic the pressure of an interview. If enough time has passed, then look at another person's work for an optimal solution to learn from.
 
-## Kaggle
-Kaggle is like LeetCode but more specialized in Data Science (Machine Learning and AI as well). In Kaggle, you can work with real-world datasets in competitions with a community to improve your own solution.
+## Practicing Kaggle
+Kaggle is like LeetCode but more specialized in data science (Machine Learning and AI as well). In Kaggle, you can work with real-world datasets in competitions with a community to improve your own solution.
 
 Use the learn section of Kaggle to get introduced to core concepts of Python and SQL. Build up from there to do competitions designed for beginners like the Titanic.
 
@@ -42,17 +42,17 @@ Go to UWB Hacks as a starting hackathon as it is suited for people of all skill 
 ## Joining Clubs
 Forming connection with peers who have the same interests as you by going to clubs is significant in widening your network and immersing you in a practical setting that is hands-on.
 
-Attend any club meetings from the Association for Computing Machinery by monitoring their Discord for any news of the first one. Another club you can apply to the UW Data Science Society in the Seattle campus as soon the form opens Winter Quarter, which will further connect you to more hackathons. 
+Attend any club meetings from the Association for Computing Machinery by monitoring their Discord for any news of the first one. Another club you can apply to the UW Data Science Society in the Seattle campus as soon the form opens winter quarter, which will further connect you to more hackathons. 
 
 # Assembling a Professional Profile
 This section discusses activities that raises your overall credibility to potential employers in the field.
 
-## Resume Refinement
+## Refining a Resume
 A resume is an employer's first impression of your competency in the job they are hiring for. It is vital that a resume be tailored to every job you apply to so you can stand out.
 
 Make a base resume with every one of your accolades and qualifications to edit for a specific job application. Schedule an appointment with career services or enroll in their Canvas course for a resume review. For a second opinion with a basis in technology, use the ACM Discord's Resume Review channel.
 
-## Personal Projects
+## Creating Personal Projects
 Personal projects are an important part of your portfolio as they show initiative and the application of technical concepts. The first personal project should be simple and small in scale to get a product out there.
 
 Start with an idea that is familiar or adjacent to something you have done before in a class, like mapping out the weather. Make a schedule with milestones to keep you responsible to finish the project.
@@ -61,7 +61,7 @@ Start with an idea that is familiar or adjacent to something you have done befor
 <img width="1035" height="412" alt="image" src="https://github.com/user-attachments/assets/e01bf661-e6b8-480a-b723-e6e463f4dd62" />
 
 
-### References
+# References
 [1] 	Coursera Staff, "What Is a Data Scientist? Salary, Duties + How to Become One," Coursera Inc., 23 May 2026. [Online]. Available: https://www.coursera.org/articles/what-is-a-data-scientist. [Accessed 22 October 2026].
 
 [2] 	"Kaggle Learn," 6 November 2026. [Online]. Available: https://www.kaggle.com/learn. [Accessed 6 November 2026].
