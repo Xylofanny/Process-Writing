@@ -1,22 +1,29 @@
 # Building a Career as a Data Scientist
 
-By William Ho
+Prepared for: Husky student pursuing a job as a data scientist
+
+Prepared by: William Ho
+
+Date: November 24, 2026
+
+*Figure 1: Dashboard. (© 2016 Carlos Muza / Unsplash)*
+<img width="3000" height="1360" alt="image" src="https://github.com/user-attachments/assets/c49653d0-8e84-421d-8506-73eb0c543415" />
 
 # Table of Contents
 - [Skill-Building Activities](#skill-building-activities)
-  - [LeetCode](#leetcode)
-  - [Kaggle](#kaggle)
+  - [Doing LeetCode](#doing-leetcode)
+  - [Practicing Kaggle](#practicing-kaggle)
 - [Networking and Practical Experience](#networking-and-practical-experience)
     - [Competing in Hackathons](#competing-in-hackathons)
     - [Joining Clubs](#joining-clubs)
 - [Assembling a Professional Profile](#assembling-a-professional-profile)
-  - [Resume Refinement](#resume-refinement)
-  - [Personal Projects](#personal-projects)
+  - [Refining a Resume](#refining-a-resume)
+  - [Creating Personal Projects](#creating-personal-projects)
 - [References](#references)
 
 ---
 
-Becoming a data scientist involves an interdisciplinary foundation in programming, mathematics, and problem-solving skills. Data scientists identify trends in data, build data pipelines that move information, and communicate their findings to stakeholders, making them essential to modern decision-making. This work presents the best practices for becoming a data scientist, starting from college.
+Budding college students who want to become data scientists might face the challenge of finding where to start building the interdisciplinary skills needed to succeed [^1]. Data scientists are essential to modern decision-making. This work presents the best practices for becoming a data scientist, starting from college.
 
 # Skill-Building Activities
 This section discusses activities that increase your proficiency for skills that a data scientist needs to succeed.
@@ -30,6 +37,7 @@ Start with the Python questions in LeetCode to get a grasp of how to use the lan
 Kaggle is like LeetCode but more specialized in data science (Machine Learning and AI as well). In Kaggle, you can work with real-world datasets in competitions with a community to improve your own solution.
 
 Use the learn section of Kaggle to get introduced to core concepts of Python and SQL. Build up from there to do competitions designed for beginners like the Titanic.
+In a personal interview with a data scientist at the biotech company Omeros they said, ""
 
 # Networking and Practical Experience
 This section covers different avenues to build your network with people in the field of technology.
@@ -57,23 +65,23 @@ Personal projects are an important part of your portfolio as they show initiativ
 
 Start with an idea that is familiar or adjacent to something you have done before in a class, like mapping out the weather. Make a schedule with milestones to keep you responsible to finish the project.
 
-*Figure 1: Gantt chart of Personal Project Schedule*
+*Figure 2: Gantt chart of Personal Project Schedule*
 <img width="1035" height="412" alt="image" src="https://github.com/user-attachments/assets/e01bf661-e6b8-480a-b723-e6e463f4dd62" />
 
 
 # References
-[1] 	Coursera Staff, "What Is a Data Scientist? Salary, Duties + How to Become One," Coursera Inc., 23 May 2026. [Online]. Available: https://www.coursera.org/articles/what-is-a-data-scientist. [Accessed 22 October 2026].
+[^1]: 	Coursera Staff, "What Is a Data Scientist? Salary, Duties + How to Become One," Coursera Inc., 23 May 2026. [Online]. Available: https://www.coursera.org/articles/what-is-a-data-scientist. [Accessed Oct. 22, 2026].
 
-[2] 	"Kaggle Learn," 6 November 2026. [Online]. Available: https://www.kaggle.com/learn. [Accessed 6 November 2026].
+[2] 	"Kaggle Learn," 6 November 2026. [Online]. Available: https://www.kaggle.com/learn. [Accessed Nov. 6, 2026].
 
-[3] 	W. Cukierski, "Titanic - Machine Learning from Disaster," 2012. [Online]. Available: https://www.kaggle.com/competitions/titanic. [Accessed 6 November 2026].
+[3] 	W. Cukierski, "Titanic - Machine Learning from Disaster," 2012. [Online]. Available: https://www.kaggle.com/competitions/titanic. [Accessed Nov. 6, 2026].
 
-[4] 	"UWB Hacks 2026: The Future," UWB ACM, April 2026. [Online]. Available: https://www.uwbhacks.com/. [Accessed 26 October 2026].
+[4] 	"UWB Hacks 2026: The Future," UWB ACM, April 2026. [Online]. Available: https://www.uwbhacks.com/. [Accessed Oct. 26, 2026].
 
-[5] 	"UWB ACM," 18 April 2025. [Online]. Available: https://uwbacm.org/. [Accessed 27 October 2026].
+[5] 	"UWB ACM," 18 April 2025. [Online]. Available: https://uwbacm.org/. [Accessed Oct. 27, 2026].
 
-[6] 	"Data Science Society at UW," 1 October 2026. [Online]. Available: https://data-science-society-at-uw.github.io/club-website/. [Accessed 26 October 2026].
+[6] 	"Data Science Society at UW," 1 October 2026. [Online]. Available: https://data-science-society-at-uw.github.io/club-website/. [Accessed Oct. 26, 2026].
 
-[7] 	"Career Services Appointments," University of Washington Bothell, [Online]. Available: https://www.uwb.edu/career-services/appointments. [Accessed 6 November 2026].
+[7] 	"Career Services Appointments," University of Washington Bothell, [Online]. Available: https://www.uwb.edu/career-services/appointments. [Accessed Nov. 6, 2026].
 
-[word count 647]
+[word count: 647]
